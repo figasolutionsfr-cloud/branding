@@ -1,2 +1,1 @@
-# branding
-FIGA APP
+Branding
